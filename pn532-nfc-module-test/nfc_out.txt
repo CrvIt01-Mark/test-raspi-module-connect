@@ -1,0 +1,19 @@
+error	libnfc.bus.i2c	Error: wrote only -1 bytes (10 expected) (Connection timed out).
+error	libnfc.driver.pn532_i2c	Failed to transmit data. Retries left: 2.
+error	libnfc.bus.i2c	Error: wrote only -1 bytes (10 expected) (Connection timed out).
+error	libnfc.driver.pn532_i2c	Failed to transmit data. Retries left: 1.
+error	libnfc.bus.i2c	Error: wrote only -1 bytes (10 expected) (Connection timed out).
+error	libnfc.driver.pn532_i2c	Failed to transmit data. Retries left: 0.
+error	libnfc.driver.pn532_i2c	Unable to transmit data. (TX)
+pn53x_check_communication: Input / Output Error
+error	libnfc.bus.i2c	Error: wrote only -1 bytes (10 expected) (Connection timed out).
+error	libnfc.driver.pn532_i2c	Failed to transmit data. Retries left: 2.
+error	libnfc.bus.i2c	Error: wrote only -1 bytes (10 expected) (Input/output error).
+error	libnfc.driver.pn532_i2c	Failed to transmit data. Retries left: 1.
+error	libnfc.bus.i2c	Error: wrote only -1 bytes (10 expected) (Input/output error).
+error	libnfc.driver.pn532_i2c	Failed to transmit data. Retries left: 0.
+error	libnfc.driver.pn532_i2c	Unable to transmit data. (TX)
+nfc-list: ERROR: Unable to open NFC device: pn532_i2c:/dev/i2c-1
+nfc-list uses libnfc 1.8.0
+0
+0
